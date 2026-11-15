@@ -50,4 +50,13 @@ you can use the /btw it is good. it is even better to use . it do not pollute th
 
 what is the fan out and the fan in
 
+look  we can add that lets talk and explroe mreo for teh promtpa nd teh ideation so we can get tthe better prompt and better work
+instead of the shit which i hafve
+
+we cnt say that don't do wath is not aksed
+cz some things serioulsy need indirect chagnges
+but ai igneros those is not right 
+So we should specily that if chnges are neccsesary then ask
+we need tht extra work which we didn't ask but only that which is nescassary
+
 
