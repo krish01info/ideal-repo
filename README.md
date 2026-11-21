@@ -59,4 +59,7 @@ but ai igneros those is not right
 So we should specily that if chnges are neccsesary then ask
 we need tht extra work which we didn't ask but only that which is nescassary
 
+human hand written rules work more better comaper to ai written 
+read this in the papers do look over it before implimenting
+
 
